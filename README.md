@@ -1,6 +1,3 @@
-
-# README content
-readme_content = """
 # Hi there, I'm Shahari 👋
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -54,12 +51,9 @@ I'm a passionate **Web Developer** specializing in **PHP**, **WordPress**, and r
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msshahari)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)](https://shahari.me)
 """
 
-# Save content to README.md file
-with open("/mnt/data/README.md", "w") as file:
-    file.write(readme_content)
 
 "/mnt/data/README.md"
