@@ -1,8 +1,7 @@
-# Generating a README.md file with the provided content
 
 # README content
 readme_content = """
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Shahari 👋
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
