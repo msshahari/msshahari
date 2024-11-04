@@ -10,8 +10,6 @@
 I'm a passionate **Web Developer** specializing in **PHP**, **WordPress**, and related technologies. I enjoy crafting efficient, user-friendly solutions and strive to make a positive impact through reliable and well-designed web experiences.
 
 ---
-[![An image of @msshahari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/msshahari)](https://holopin.io/@msshahari)
-
 ## 💼 Skills and Expertise
 
 - **Languages & Frameworks**  
