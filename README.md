@@ -25,7 +25,9 @@ The one lesson that stuck: **cool tech means nothing if it doesn't fix a real pr
 > *CiferX Labs: Engineered for the long run, Designed for delight.*
 
 ### 💻 Stack
+<img src="https://skillicons.dev/icons?i=php,wordpress,react,nextjs,ts,js,vite,nodejs,mongodb,mysql,tailwind,bootstrap,jquery,git,figma,postman,aws,linux&perline=9" />
 
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white)
 
 ### ⚡ Right Now
