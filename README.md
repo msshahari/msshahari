@@ -26,9 +26,7 @@ The one lesson that stuck: **cool tech means nothing if it doesn't fix a real pr
 
 ### 💻 Stack
 
-<img src="https://skillicons.dev/icons?i=php,wordpress,react,nextjs,ts,js,vite,nodejs,mongodb,mysql,tailwind,git,figma,aws,linux&perline=15" />
-
-<sub>Also WooCommerce, REST APIs, Bootstrap, jQuery and Postman.</sub>
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white)
 
 ### ⚡ Right Now
 
