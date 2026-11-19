@@ -25,7 +25,7 @@ The one lesson that stuck: **cool tech means nothing if it doesn't fix a real pr
 > *CiferX Labs: Engineered for the long run, Designed for delight.*
 
 ### 💻 Stack
-<img src="https://skills.syvixor.com/api/icons?i=php,wordpress,woocommerce,reactjs,nextjs,typescript,javascript,vite,nodejs,mongodb,mysql,rest,tailwindcss,bootstrap,jquery,git,figma,postman,amazonwebservices,linux&perline=10" />
+<img src="https://skills.syvixor.com/api/icons?i=nextjs,typescript,php,tailwindcss,wordpress,reactjs,javascript,vite,nodejs,mongodb,mysql,rest,bootstrap,jquery,git,figma,postman,amazonwebservices,linux,shopify,woocommerce&perline=10" />
 
 ### ⚡ Right Now
 
