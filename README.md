@@ -31,7 +31,7 @@ The one lesson that stuck: **cool tech means nothing if it doesn't fix a real pr
 
 Obsessed with **AI**, **automation** and **vibecoding**, alongside:
 
-- Custom WordPress plugins, themes and role based membership systems
+- Custom WordPress plugins, themes and websites.
 - Modern apps on Next.js, React, TypeScript and MongoDB
 - API, automation and analytics integrations
 
