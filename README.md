@@ -19,7 +19,7 @@ The one lesson that stuck: **cool tech means nothing if it doesn't fix a real pr
 ### 🧭 The Journey
 
 - 📚 **Cofounded [KTU Students](https://ktustudents.in) in 2015**, the go to academic platform for Kerala's engineering students
-- 🛠️ **Cofounder [CiferX Labs](https://ciferx.com)** building web platforms, EdTech and SaaS products made to last
+- 🛠️ **Cofounder [CiferX Labs](https://ciferx.com)** building web platforms, EdTech and products made to last
 - 🌍 Partnered with founders and clients **across the globe**, from first idea to launch
 
 > *CiferX Labs: Engineered for the long run, Designed for delight.*
