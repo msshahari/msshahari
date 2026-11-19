@@ -2,7 +2,7 @@
 
 # Hi, I'm Muhammed Shahari 👋
 
-**Full Stack Developer · Cofounder & CTO at CiferX Labs · Startup Tech Strategist**
+**Full Stack Developer · Cofounder at CiferX Labs · Startup Tech Strategist**
 
 I started with **blogging in 2013** 🧩<br>
 **12 years and 100+ websites** later, I'm still building. Just bigger things now. 🚀<br>
@@ -19,8 +19,7 @@ The one lesson that stuck: **cool tech means nothing if it doesn't fix a real pr
 ### 🧭 The Journey
 
 - 📚 **Cofounded [KTU Students](https://ktustudents.in) in 2015**, the go to academic platform for Kerala's engineering students
-- 🛠️ **Cofounder & CTO of [CiferX Labs](https://ciferx.com)** with **Amjad Sibili**, **Ahmed Salih** and **Inzamam K**, building web platforms, EdTech and SaaS products made to last
-- 🎓 Through **[Devolve](https://devolve.in)** and **Velcro Guild**, I turn learners into builders who actually ship
+- 🛠️ **Cofounder [CiferX Labs](https://ciferx.com)** building web platforms, EdTech and SaaS products made to last
 - 🌍 Partnered with founders and clients **across the globe**, from first idea to launch
 
 > *CiferX Labs: Engineered for the long run, Designed for delight.*
